@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\asworkspace\\MZxing\\library\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "E:\\asworkspace\\MZxing\\library\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MZxing\\library\\build\\intermediates\\res\\merged\\release\\xml\\mimetypes.xml",
+        "source": "E:\\asworkspace\\MZxing\\library\\src\\main\\res\\xml\\mimetypes.xml"
+    }
+]

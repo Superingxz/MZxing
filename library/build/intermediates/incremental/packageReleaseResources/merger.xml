@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\asworkspace\MZxing\library\src\main\res"/><source path="E:\asworkspace\MZxing\library\build\generated\res\rs\release"/><source path="E:\asworkspace\MZxing\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\asworkspace\MZxing\library\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\asworkspace\MZxing\library\src\main\res"><file name="sdl_text" path="E:\asworkspace\MZxing\library\src\main\res\color\sdl_text.xml" qualifiers="" type="color"/><file name="btn_back_arrow" path="E:\asworkspace\MZxing\library\src\main\res\drawable\btn_back_arrow.xml" qualifiers="" type="drawable"/><file name="btn_capture_ewm" path="E:\asworkspace\MZxing\library\src\main\res\drawable\btn_capture_ewm.xml" qualifiers="" type="drawable"/><file name="btn_capture_sgd" path="E:\asworkspace\MZxing\library\src\main\res\drawable\btn_capture_sgd.xml" qualifiers="" type="drawable"/><file name="btn_capture_txm" path="E:\asworkspace\MZxing\library\src\main\res\drawable\btn_capture_txm.xml" qualifiers="" type="drawable"/><file name="btn_edittext_bg" path="E:\asworkspace\MZxing\library\src\main\res\drawable\btn_edittext_bg.xml" qualifiers="" type="drawable"/><file name="contact_edit_normal" path="E:\asworkspace\MZxing\library\src\main\res\drawable\contact_edit_normal.xml" qualifiers="" type="drawable"/><file name="contact_edit_pressed" path="E:\asworkspace\MZxing\library\src\main\res\drawable\contact_edit_pressed.xml" qualifiers="" type="drawable"/><file name="cursor_set_black" path="E:\asworkspace\MZxing\library\src\main\res\drawable\cursor_set_black.xml" qualifiers="" type="drawable"/><file name="dialog_setup_bg" path="E:\asworkspace\MZxing\library\src\main\res\drawable\dialog_setup_bg.xml" qualifiers="" type="drawable"/><file name="ic_captuer_ewm_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_ewm_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_ewm_pressed" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_ewm_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_picture_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_picture_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_qrcode_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_qrcode_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_sgd_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_sgd_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_sgd_pressed" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_sgd_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_txm_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_txm_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_captuer_txm_pressed" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_captuer_txm_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_goback_nomal" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_goback_nomal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_goback_pressed" path="E:\asworkspace\MZxing\library\src\main\res\drawable-xhdpi\ic_goback_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_title_main_bar" path="E:\asworkspace\MZxing\library\src\main\res\layout\common_title_main_bar.xml" qualifiers="" type="layout"/><file name="layout_capture" path="E:\asworkspace\MZxing\library\src\main\res\layout\layout_capture.xml" qualifiers="" type="layout"/><file name="layout_capture_show" path="E:\asworkspace\MZxing\library\src\main\res\layout\layout_capture_show.xml" qualifiers="" type="layout"/><file name="layout_dialog_barcodeedit" path="E:\asworkspace\MZxing\library\src\main\res\layout\layout_dialog_barcodeedit.xml" qualifiers="" type="layout"/><file name="layout_normalprogress_dialog" path="E:\asworkspace\MZxing\library\src\main\res\layout\layout_normalprogress_dialog.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="E:\asworkspace\MZxing\library\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\asworkspace\MZxing\library\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\asworkspace\MZxing\library\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\asworkspace\MZxing\library\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\asworkspace\MZxing\library\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="beep" path="E:\asworkspace\MZxing\library\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="E:\asworkspace\MZxing\library\src\main\res\values\arrays.xml" qualifiers=""><string-array name="country_codes">
+		<item>-</item>
+		<item>AR</item>
+		<item>AU</item>
+		<item>BR</item>
+		<item>BG</item>
+		<item>CA</item>
+		<item>CH</item>
+		<item>CN</item>
+		<item>CZ</item>
+		<item>DE</item>
+		<item>DK</item>
+		<item>ES</item>
+		<item>FI</item>
+		<item>FR</item>
+		<item>GB</item>
+		<item>GR</item>
+		<item>HU</item>
+		<item>ID</item>
+		<item>IT</item>
+		<item>JP</item>
+		<item>KR</item>
+		<item>NL</item>
+		<item>PL</item>
+		<item>PT</item>
+		<item>RO</item>    
+		<item>RU</item>
+		<item>SE</item>
+		<item>SK</item>
+		<item>SI</item>
+		<item>TR</item>
+		<item>TW</item>
+		<item>US</item>
+	</string-array><string-array name="preferences_front_light_options">
+	   <item>@string/preferences_front_light_on</item>
+	   <item>@string/preferences_front_light_auto</item>
+	   <item>@string/preferences_front_light_off</item>
+	 </string-array><string-array name="preferences_front_light_values">
+	   <item>ON</item>
+	   <item>AUTO</item>
+	   <item>OFF</item>
+	 </string-array></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="kingteller_edittext">
+        <attr format="reference|string" name="fieldName"/>
+        <attr name="fieldType">
+            <enum name="String" value="1"/>
+            <enum name="Number" value="2"/>
+            <enum name="DateTime" value="3"/>
+            <enum name="Date" value="4"/>
+            <enum name="Time" value="5"/>
+            <enum name="Select" value="6"/>
+            <enum name="Dialog" value="7"/>
+            <enum name="DateTimePD" value="8"/>
+        </attr>
+        <attr format="reference|string" name="fieldValue"/>
+        <attr name="fieldOp">
+            <enum name="QUERY_TYPE_EQ" value="0"/>
+            <enum name="QUERY_TYPE_LIKE" value="1"/>
+            <enum name="EQ" value="2"/>
+            <enum name="NOT_EQ" value="3"/>
+            <enum name="LESS_THAN" value="4"/>
+            <enum name="LESS_EQ_THAN" value="5"/>
+            <enum name="LARGE_THAN" value="6"/>
+            <enum name="LARGE_EQ_THAN" value="7"/>
+            <enum name="LARGE_LESS" value="8"/>
+            <enum name="LARGE_LESS_EQ" value="9"/>
+            <enum name="LIKE" value="10"/>
+            <enum name="LLIKE" value="11"/>
+            <enum name="RLIKE" value="12"/>
+            <enum name="ISNOT" value="13"/>
+            <enum name="IN" value="14"/>
+        </attr>
+
+        <attr format="reference|string" name="fieldTitle"/>
+        <attr format="boolean" name="fieldRequested"/>
+        <attr format="reference|string" name="fieldHint"/>
+        <attr format="reference|string" name="fieldText"/>
+        <attr format="reference" name="fieldBindData"/>
+        <attr format="boolean" name="fieldEnabled"/>
+        <attr format="integer" name="fieldLines"/>
+        <attr format="integer" name="fieldTextSize"/>
+    </declare-styleable><declare-styleable name="change_color_button">
+        <attr format="string" name="hintString"/>
+        <attr format="reference" name="hintTextColor"/>
+        <attr format="reference" name="textColor"/>
+        <attr format="reference" name="hintDrawable"/>
+        <attr format="reference" name="drawable"/>
+        <attr format="boolean" name="textEnabled"/>
+    </declare-styleable><declare-styleable name="MaterialCalendarView">
+        <attr format="reference" name="mcv_dateTextAppearance"/>
+        <attr format="reference" name="mcv_weekDayTextAppearance"/>
+        <attr format="reference" name="mcv_headerTextAppearance"/>
+
+        <attr format="color" name="mcv_arrowColor"/>
+        <attr format="reference" name="mcv_leftArrowMask"/>
+        <attr format="reference" name="mcv_rightArrowMask"/>
+        <attr format="color" name="mcv_selectionColor"/>
+
+        <attr format="integer" name="mcv_showOtherDates">
+            <flag name="none" value="0"/>
+            <flag name="other_months" value="1"/>
+            <flag name="out_of_range" value="2"/>
+            <flag name="decorated_disabled" value="4"/>
+            <flag name="defaults" value="4"/>
+            <flag name="all" value="7"/>
+        </attr>
+        <attr format="reference" name="mcv_weekDayLabels"/>
+        <attr format="reference" name="mcv_monthLabels"/>
+        <attr format="dimension" name="mcv_tileSize"/>
+        <attr format="enum" name="mcv_firstDayOfWeek">
+            <enum name="sunday" value="1"/>
+            <enum name="monday" value="2"/>
+            <enum name="tuesday" value="3"/>
+            <enum name="wednesday" value="4"/>
+            <enum name="thursday" value="5"/>
+            <enum name="friday" value="6"/>
+            <enum name="saturday" value="7"/>
+        </attr>
+    </declare-styleable><declare-styleable name="DialogStyle">
+        <attr format="reference" name="dialogBackground"/>
+        <attr format="color|reference" name="DialogTitleTextColor"/>
+        <attr format="color|reference" name="titleSeparatorColor"/>
+        <attr format="color|reference" name="messageTextColor"/>
+        <attr format="color|reference" name="buttonTextColor"/>
+        <attr format="color|reference" name="buttonSeparatorColor"/>
+        <attr format="color|reference" name="buttonBackgroundColorNormal"/>
+        <attr format="color|reference" name="buttonBackgroundColorPressed"/>
+        <attr format="color|reference" name="buttonBackgroundColorFocused"/>
+    </declare-styleable><declare-styleable name="LoadingProgressViewStyle">
+        <attr format="float" name="lpvs_progress"/>
+        <attr format="float" name="lpvs_maxProgress"/>
+        <attr format="integer" name="lpvs_animDuration"/>
+        <attr format="integer" name="lpvs_animSwoopDuration"/>
+        <attr format="integer" name="lpvs_animSyncDuration"/>
+        <attr format="color" name="lpvs_color"/>
+        <attr format="dimension" name="lpvs_thickness"/>
+        <attr format="boolean" name="lpvs_indeterminate"/>
+        <attr format="boolean" name="lpvs_animAutostart"/>
+        <attr format="integer" name="lpvs_animSteps"/>
+    </declare-styleable><declare-styleable name="base_tab">
+        <attr format="color|reference" name="dividerColor"/>
+        <attr format="reference" name="dividerHeight"/>
+        <attr format="boolean" name="isTop"/>
+    </declare-styleable><declare-styleable name="StyledDialogs">
+        <attr format="reference" name="sdlDialogStyle"/>
+        <attr format="reference" name="sdlTitleTextStyle"/>
+        <attr format="reference" name="sdlMessageTextStyle"/>
+    </declare-styleable></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\colors.xml" qualifiers=""><color name="main_bottom_color_nomal">#FF929292</color><color name="darkcyan">#008b8b</color><color name="plugin_camera_black">#000000</color><color name="olivedrab">#6b8e23</color><color name="darkmagenta">#8b008b</color><color name="sdl_message_text">#333333</color><color name="sdl_button_pressed">#9933B5E5</color><color name="darkgreen">#006400</color><color name="style_red">#ff4c41</color><color name="common_mark_edittext_textcolor_orange">#FFFA7441</color><color name="seagreen">#2e8b57</color><color name="transparent">#00000000</color><color name="peru">#cd853f</color><color name="slategrey">#708090</color><color name="beige">#f5f5dc</color><color name="lavenderblush">#fff0f5</color><color name="sdl_button_normal">@android:color/transparent</color><color name="chocolate">#d2691e</color><color name="common_all_color_grey">#FFF0F0F0</color><color name="ghostwhite">#f8f8ff</color><color name="common_mark_edittext_textcolor_red">#FFF83233</color><color name="purple">#800080</color><color name="burlywood">#deb887</color><color name="grey">#808080</color><color name="lightgray">#d3d3d3</color><color name="mediumvioletred">#c71585</color><color name="common_right_edittext_textcolor">#FF3B3B3B</color><color name="darkgrey">#a9a9a9</color><color name="darkkhaki">#bdb76b</color><color name="rosybrown">#bc8f8f</color><color name="dodgerblue">#1e90ff</color><color name="navigation_item_divide">#ffcccccc</color><color name="text_999999">#ff999999</color><color name="peachpuff">#ffdab9</color><color name="lightblue">#add8e6</color><color name="black">#ff000000</color><color name="more_left_textcolor">#FF3B3B3B</color><color name="none_color">#00000000</color><color name="gainsboro">#dcdcdc</color><color name="saddlebrown">#8b4513</color><color name="transparent_background">#99000000</color><color name="viewfinder_mask">#60000000</color><color name="sdl_bright_foreground_disabled">#ffb2b2b2</color><color name="cadetblue">#5f9ea0</color><color name="tomato">#ff6347</color><color name="colorPrimaryDark">#303F9F</color><color name="aquamarine">#7fffd4</color><color name="text_333333">#ff333333</color><color name="indianred">#cd5c5c</color><color name="forestgreen">#228b22</color><color name="seaShell">#fff5ee</color><color name="common_left_edittext_textcolor">#FF666666</color><color name="wheat">#f5deb3</color><color name="cornflowerblue">#6495ed</color><color name="darksalmon">#e9967a</color><color name="mediumorchid">#ba55d3</color><color name="cyan">#00ffff</color><color name="ivory">#fffff0</color><color name="cornsilk">#fff8dc</color><color name="aliceblue">#f0f8ff</color><color name="limegreen">#32cd32</color><color name="sdl_button_focused">#4C33B5E5</color><color name="darkgoldenrod">#b8860b</color><color name="springgreen">#00ff7f</color><color name="snow">#fffafa</color><color name="whitesmoke">#f5f5f5</color><color name="divider_gray">#ffd7d7d7</color><color name="pink">#ffc0cb</color><color name="colorPrimary">#3F51B5</color><color name="firebrick">#b22222</color><color name="lightseagreen">#20b2aa</color><color name="albumback">#E1E0DE</color><color name="twotitle_text_color_nomal">#FF3B3B3B</color><color name="transparent_half_white">#66ffffff</color><color name="coral">#ff7f50</color><color name="transparent2">#8000</color><color name="color_bg">#ffeeeeee</color><color name="sdl_title_text">#33B5E5</color><color name="capture_buttom_color_nomal">#FFFFFFFF</color><color name="sdl_button_separator">#25000000</color><color name="lawngreen">#7cfc00</color><color name="sandybrown">#f4a460</color><color name="encode_view">#ffffffff</color><color name="moccasin">#ffe4b5</color><color name="lavender">#e6e6fa</color><color name="magenta">#ff00ff</color><color name="common_all_color_blue">#FF46AAF8</color><color name="comm_bk_input">#ffaaaaaa</color><color name="darkgray">#a9a9a9</color><color name="palegoldenrod">#eee8aa</color><color name="greenyellow">#adff2f</color><color name="yellow_two">#40facb25</color><color name="darkturquoise">#00ced1</color><color name="red2">#ffcc0000</color><color name="navy">#000080</color><color name="sdl_bright_foreground_dark">#fff3f3f3</color><color name="darkviolet">#9400d3</color><color name="style_divider_color">#C9C7CD</color><color name="twotitle_text_color_pressde">#FF46AAF8</color><color name="color_10">#00000000</color><color name="mistyrose">#ffe4e1</color><color name="lightgreen">#90ee90</color><color name="navajowhite">#ffdead</color><color name="yellow">#fffacb25</color><color name="tan">#d2b48c</color><color name="bg">#ffeeeeee</color><color name="fuchsia">#ff00ff</color><color name="paleturquoise">#afeeee</color><color name="azure">#f0ffff</color><color name="plum">#dda0dd</color><color name="darkseagreen">#8fbc8f</color><color name="mediumblue">#0000cd</color><color name="olive">#808000</color><color name="contents_text">#ff000000</color><color name="result_text">#ffffffff</color><color name="skyblue">#87ceeb</color><color name="lightsalmon">#ffa07a</color><color name="sdl_button_text">@color/sdl_text</color><color name="result_minor_text">#ffc0c0c0</color><color name="lightcyan">#e0ffff</color><color name="maroon">#800000</color><color name="mediumspringgreen">#00fa9a</color><color name="royalblue">#4169e1</color><color name="common_all_background">#FFF0F0F0</color><color name="color_dddddd">#ffdddddd</color><color name="mintcream">#f5fffa</color><color name="possible_result_points">#c0ffbd21</color><color name="floralwhite">#fffaf0</color><color name="dimgray">#696969</color><color name="colorAccent">#FF4081</color><color name="text_888888">#ff888888</color><color name="orchid">#da70d6</color><color name="bisque">#ffe4c4</color><color name="goldenrod">#daa520</color><color name="palegreen">#98fb98</color><color name="mediumturquoise">#48d1cc</color><color name="green">#ffa9d154</color><color name="darkslategray">#2f4f4f</color><color name="lime">#00ff00</color><color name="darkslateblue">#483d8b</color><color name="oldlace">#fdf5e6</color><color name="darkblue">#00008b</color><color name="white">#ffffffff</color><color name="palevioletred">#db7093</color><color name="steelblue">#4682b4</color><color name="result_view">#b0000000</color><color name="lightslategrey">#778899</color><color name="more_right_textcolor">#FF929292</color><color name="midnightblue">#191970</color><color name="salmon">#fa8072</color><color name="crimson">#dc143c</color><color name="darkorange">#ff8c00</color><color name="common_mark_edittext_textcolor_blue">#FF46AAF8</color><color name="result_points">#c099cc00</color><color name="darkolivegreen">#556b2f</color><color name="capture_buttom_color_pressde">#FF46AAF8</color><color name="darkred">#8b0000</color><color name="lightpink">#ffb6c1</color><color name="mediumaquamarine">#66cdaa</color><color name="mediumpurple">#9370db</color><color name="thistle">#d8bfd8</color><color name="silver">#c0c0c0</color><color name="slategray">#708090</color><color name="lightgoldenrodyellow">#fafad2</color><color name="powderblue">#b0e0e6</color><color name="indigo">#4b0082</color><color name="lightsteelblue">#b0c4de</color><color name="slateblue">#6a5acd</color><color name="bright_foreground_dark">#ffffffff</color><color name="lightyellow">#ffffe0</color><color name="blueviolet">#8a2be2</color><color name="orangered">#ff4500</color><color name="brown">#a52a2a</color><color name="honeydew">#f0fff0</color><color name="dimgrey">#696969</color><color name="antiquewhite">#faebd7</color><color name="menu_color">#ff1874CD</color><color name="common_mark_edittext_textcolor_greed">#FF0FB523</color><color name="deepskyblue">#00bfff</color><color name="common_all_color_greys">#FFb0b0b0</color><color name="viewfinder_laser">#ffcc0000</color><color name="teal">#008080</color><color name="blue">#ff0000ff</color><color name="sdl_bright_foreground">#ff000000</color><color name="orange">#fffe6d00</color><color name="gold">#ffd700</color><color name="darkslategrey">#2f4f4f</color><color name="gray">#ffbbbbbb</color><color name="mediumslateblue">#7b68ee</color><color name="color_7">#c8c8c8</color><color name="color_6">#999999</color><color name="color_5">#666666</color><color name="color_4">#333333</color><color name="main_bottom_color_pressde">#FF47AAF8</color><color name="color_divider">#ffeeeeee</color><color name="color_3">#fa7441</color><color name="color_2">#cf605a</color><color name="lightgrey">#d3d3d3</color><color name="color_1">#45c018</color><color name="darkorchid">#9932cc</color><color name="color_0">#46aaf8</color><color name="hotpink">#ff69b4</color><color name="lightcoral">#f08080</color><color name="violet">#ee82ee</color><color name="khaki">#f0e68c</color><color name="papayawhip">#ffefd5</color><color name="lightskyblue">#87cefa</color><color name="aqua">#00ffff</color><color name="lightslategray">#778899</color><color name="sienna">#a0522d</color><color name="color_9">#000000</color><color name="color_8">#ffffff</color><color name="red">#ffee4136</color><color name="text_666666">#ff666666</color><color name="blanchedalmond">#ffebcd</color><color name="transparent_half">#66000000</color><color name="linen">#faf0e6</color><color name="sdl_title_separator">#33B5E5</color><color name="toolbar_divide">#ffcccccc</color><color name="deeppink">#ff1493</color><color name="turquoise">#40e0d0</color><color name="mediumseagreen">#3cb371</color><color name="lemonchiffon">#fffacd</color><color name="chartreuse">#7fff00</color><color name="sdl_bright_foreground_disabled_dark">#ff4c4c4c</color></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\dimens.xml" qualifiers=""><dimen name="common_window_title_high">60dp</dimen><dimen name="common_title_height">50.0dip</dimen><dimen name="common_window_title_text_size">24sp</dimen><dimen name="common_text_biger">26sp</dimen><dimen name="common_item_text_size_title">16sp</dimen><dimen name="common_text_super">28sp</dimen><dimen name="common_line_height">20.0dip</dimen><dimen name="common_layout_height">50dp</dimen><dimen name="common_padding">10.0dip</dimen><dimen name="main_btn_text">18.0sp</dimen><dimen name="common_button_height">46.0dip</dimen><dimen name="input_magin_top">10dp</dimen><dimen name="common_text_15">15sp</dimen><dimen name="ui_10_dip">10dip</dimen><dimen name="common_text_middle">16sp</dimen><dimen name="common_item_text_size_btn">14sp</dimen><dimen name="common_item_text_size_right">14sp</dimen><dimen name="navigation_item_divide3">2px</dimen><dimen name="common_padding5">5dip</dimen><dimen name="common_select_item">45.0dip</dimen><dimen name="common_text_small">14sp</dimen><dimen name="common_btn_width">90dp</dimen><dimen name="list_padding">0dp</dimen><dimen name="common_margin">5.0dip</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="common_window_title_btn_size">18sp</dimen><dimen name="main_menu_height">40dp</dimen><dimen name="navigation_item_divide">1px</dimen><dimen name="common_padding15">15.0dip</dimen><dimen name="common_text_big">22sp</dimen><dimen name="small_button_height">35.0dip</dimen><dimen name="common_text_13">13sp</dimen><dimen name="common_btn_height">30dp</dimen><dimen name="common_text_14">14.0sp</dimen><dimen name="btn_size">16.0sp</dimen><dimen name="common_text_title">18.0sp</dimen><dimen name="common_text_middleer">18sp</dimen><dimen name="common_btn_text_size">16sp</dimen><dimen name="list_item_padding">6dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="common_item_text_size_time">14sp</dimen><dimen name="common_item_text_size_left">14sp</dimen><dimen name="common_text_smaller">12sp</dimen><dimen name="common_item_text_size_mark">14sp</dimen></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\ids.xml" qualifiers=""><item name="return_scan_result" type="id"/><item name="decode_failed" type="id"/><item name="negative_button" type="id"/><item name="launch_product_query" type="id"/><item name="decode_succeeded" type="id"/><item name="mcv_pager" type="id"/><item name="positive_button" type="id"/><item name="restart_preview" type="id"/><item name="neutral_button" type="id"/><item name="decode" type="id"/><item name="quit" type="id"/></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\strings.xml" qualifiers=""><string name="menu_encode_vcard">Use vCard</string><string name="button_share_by_email">Share via email</string><string name="contents_email">Email address</string><string name="preferences_result_title">Result settings</string><string name="result_text">Found plain text</string><string name="menu_share">Share</string><string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string><string name="msg_google_product">Google</string><string name="msg_share_text">Or type some text and press Enter</string><string name="button_share_contact">Contact</string><string name="result_product">Found product</string><string name="button_product_search">Product search</string><string name="button_web_search">Web search</string><string name="versionStr">Version</string><string formatted="false" name="preferences_custom_product_search_summary">Substitutions: %s = contents, %f = format, %t = type</string><string name="button_share_bookmark">Bookmark</string><string name="wifi_type_label">Type</string><string name="menu_encode_mecard">Use MECARD</string><string name="history_empty_detail">No barcode scans have been recorded</string><string name="preferences_name">Settings</string><string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string><string name="cancel">取消</string><string name="preferences_decode_1D_title">1D barcodes</string><string name="memo">提示</string><string name="button_get_directions">Get directions</string><string name="history_send">Send history</string><string name="history_clear_text">Clear history</string><string name="result_address_book">Found contact info</string><string name="result_geo">Found geographic coordinates</string><string name="barcode_msg_fail">扫描失败！  </string><string name="preferences_supplemental_title">Retrieve more info</string><string name="result_sms">Found SMS address</string><string name="preferences_vibrate_title">Vibrate</string><string name="button_share_clipboard">Clipboard</string><string name="button_wifi">Connect to Network</string><string name="preferences_custom_product_search_title">Custom search URL</string><string name="button_mms">Send MMS</string><string name="preferences_remember_duplicates_title">Remember duplicates</string><string name="preferences_disable_continuous_focus_title">No continuous focus</string><string name="preferences_play_beep_title">Beep</string><string name="msg_default_meta">Metadata</string><string name="contents_phone">Phone number</string><string name="preferences_front_light_on">On</string><string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string><string name="menu_settings">Settings</string><string name="msg_sbc_no_page_returned">No page returned</string><string name="barcode_tow_dimen_success">"已检测到地址:%1$s是否打开?"</string><string name="preferences_general_title">General settings</string><string name="preferences_auto_focus_title">Use auto focus</string><string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string><string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string><string name="button_email">Send email</string><string name="button_share_by_sms">Share via SMS</string><string name="preferences_invert_scan_title">Invert scan</string><string name="app_name">Q8PAD</string><string name="button_add_calendar">Add to calendar</string><string name="preferences_decode_QR_title">QR Codes</string><string name="barcode_one_dimen_success">"已检测到文本内容:%1$s是否复制?"</string><string name="button_open_browser">Open browser</string><string name="contents_contact">Contact info</string><string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string><string name="button_dial">Dial number</string><string name="msg_sbc_searching_book">Searching book\u2026</string><string name="result_tel">Found phone number</string><string name="button_ok">OK</string><string name="preferences_bulk_mode_title">Bulk scan mode</string><string name="preferences_front_light_off">Off</string><string name="button_cancel">Cancel</string><string name="msg_sure">Are you sure?</string><string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string><string name="msg_default_time">Time</string><string name="sbc_name">Google Book Search</string><string name="feedback_hint">请填写您的意见建议</string><string name="button_add_contact">Add contact</string><string name="msg_sbc_failed">Sorry, the search encountered a problem.</string><string name="contents_text">Plain text</string><string name="msg_default_type">Type</string><string name="button_custom_product_search">Custom search</string><string name="button_share_app">Application</string><string name="preferences_disable_exposure_title">No exposure</string><string name="preferences_try_bsplus_summary">Enhanced with new features and interface</string><string name="history_empty">Empty</string><string name="history_clear_one_history_text">Clear</string><string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string><string name="wifi_changing_network">Requesting connection to network\u2026</string><string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string><string name="button_book_search">Book Search</string><string name="msg_sbc_page">Page</string><string name="preferences_copy_to_clipboard_title">Copy to clipboard</string><string name="preferences_front_light_auto">Automatic</string><string name="msg_redirect">Redirect</string><string name="contents_sms">SMS address</string><string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string><string name="history_title">History</string><string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string><string name="button_sms">Send SMS</string><string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string><string name="preferences_front_light_title">Use front light</string><string name="msg_tishi_nr">将二维码/条形码放入框内，即可自动扫描</string><string name="menu_history">History</string><string name="bookmark_picker_name">Bookmarks</string><string name="button_show_map">Show map</string><string name="msg_sbc_snippet_unavailable">Snippet not available</string><string name="msg_default_mms_subject">Hi</string><string name="confirm">确定</string><string name="result_calendar">Found calendar event</string><string name="msg_sbc_results">Results</string><string name="result_uri">Found URL</string><string name="wifi_ssid_label">Network Name</string><string name="status_server">not connect sever</string><string name="preferences_search_country">Search country</string><string name="result_isbn">Found book</string><string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string><string name="history_email_title">Barcode Scanner history</string><string name="contents_location">Geographic coordinates</string><string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string><string name="menu_help">Help</string><string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string><string name="preferences_try_bsplus">Try Barcode Scanner+</string><string name="msg_google_books">Google</string><string name="result_wifi">Found WLAN Configuration</string><string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string><string name="preferences_actions_title">When a barcode is found\u2026</string><string name="preferences_decode_Data_Matrix_title">Data Matrix</string><string name="button_search_book_contents">Search contents</string><string name="result_email_address">Found email address</string><string name="msg_default_format">Format</string><string name="msg_tishi_sgd">按(音量+)拉近距离  或者  按(音量-)疏远距离</string></file><file path="E:\asworkspace\MZxing\library\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="Login_dialog" parent="@android:style/Theme.Holo.Light.Dialog.NoActionBar">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style></file><file path="E:\asworkspace\MZxing\library\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="mimetypes" path="E:\asworkspace\MZxing\library\src\main\res\xml\mimetypes.xml" qualifiers="" type="xml"/><file name="preferences" path="E:\asworkspace\MZxing\library\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="E:\asworkspace\MZxing\library\build\generated\res\rs\release"/><source path="E:\asworkspace\MZxing\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\asworkspace\MZxing\library\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="DialogStyle"><attr format="reference" name="dialogBackground"/><attr format="color|reference" name="DialogTitleTextColor"/><attr format="color|reference" name="titleSeparatorColor"/><attr format="color|reference" name="messageTextColor"/><attr format="color|reference" name="buttonTextColor"/><attr format="color|reference" name="buttonSeparatorColor"/><attr format="color|reference" name="buttonBackgroundColorNormal"/><attr format="color|reference" name="buttonBackgroundColorPressed"/><attr format="color|reference" name="buttonBackgroundColorFocused"/></declare-styleable><declare-styleable name="LoadingProgressViewStyle"><attr format="float" name="lpvs_progress"/><attr format="float" name="lpvs_maxProgress"/><attr format="integer" name="lpvs_animDuration"/><attr format="integer" name="lpvs_animSwoopDuration"/><attr format="integer" name="lpvs_animSyncDuration"/><attr format="color" name="lpvs_color"/><attr format="dimension" name="lpvs_thickness"/><attr format="boolean" name="lpvs_indeterminate"/><attr format="boolean" name="lpvs_animAutostart"/><attr format="integer" name="lpvs_animSteps"/></declare-styleable><declare-styleable name="StyledDialogs"><attr format="reference" name="sdlDialogStyle"/><attr format="reference" name="sdlTitleTextStyle"/><attr format="reference" name="sdlMessageTextStyle"/></declare-styleable><declare-styleable name="change_color_button"><attr format="string" name="hintString"/><attr format="reference" name="hintTextColor"/><attr format="reference" name="textColor"/><attr format="reference" name="hintDrawable"/><attr format="reference" name="drawable"/><attr format="boolean" name="textEnabled"/></declare-styleable><declare-styleable name="MaterialCalendarView"><attr format="reference" name="mcv_dateTextAppearance"/><attr format="reference" name="mcv_weekDayTextAppearance"/><attr format="reference" name="mcv_headerTextAppearance"/><attr format="color" name="mcv_arrowColor"/><attr format="reference" name="mcv_leftArrowMask"/><attr format="reference" name="mcv_rightArrowMask"/><attr format="color" name="mcv_selectionColor"/><attr format="integer" name="mcv_showOtherDates">
+            <flag name="none" value="0"/>
+            <flag name="other_months" value="1"/>
+            <flag name="out_of_range" value="2"/>
+            <flag name="decorated_disabled" value="4"/>
+            <flag name="defaults" value="4"/>
+            <flag name="all" value="7"/>
+        </attr><attr format="reference" name="mcv_weekDayLabels"/><attr format="reference" name="mcv_monthLabels"/><attr format="dimension" name="mcv_tileSize"/><attr format="enum" name="mcv_firstDayOfWeek">
+            <enum name="sunday" value="1"/>
+            <enum name="monday" value="2"/>
+            <enum name="tuesday" value="3"/>
+            <enum name="wednesday" value="4"/>
+            <enum name="thursday" value="5"/>
+            <enum name="friday" value="6"/>
+            <enum name="saturday" value="7"/>
+        </attr></declare-styleable><declare-styleable name="kingteller_edittext"><attr format="reference|string" name="fieldName"/><attr name="fieldType">
+            <enum name="String" value="1"/>
+            <enum name="Number" value="2"/>
+            <enum name="DateTime" value="3"/>
+            <enum name="Date" value="4"/>
+            <enum name="Time" value="5"/>
+            <enum name="Select" value="6"/>
+            <enum name="Dialog" value="7"/>
+            <enum name="DateTimePD" value="8"/>
+        </attr><attr format="reference|string" name="fieldValue"/><attr name="fieldOp">
+            <enum name="QUERY_TYPE_EQ" value="0"/>
+            <enum name="QUERY_TYPE_LIKE" value="1"/>
+            <enum name="EQ" value="2"/>
+            <enum name="NOT_EQ" value="3"/>
+            <enum name="LESS_THAN" value="4"/>
+            <enum name="LESS_EQ_THAN" value="5"/>
+            <enum name="LARGE_THAN" value="6"/>
+            <enum name="LARGE_EQ_THAN" value="7"/>
+            <enum name="LARGE_LESS" value="8"/>
+            <enum name="LARGE_LESS_EQ" value="9"/>
+            <enum name="LIKE" value="10"/>
+            <enum name="LLIKE" value="11"/>
+            <enum name="RLIKE" value="12"/>
+            <enum name="ISNOT" value="13"/>
+            <enum name="IN" value="14"/>
+        </attr><attr format="reference|string" name="fieldTitle"/><attr format="boolean" name="fieldRequested"/><attr format="reference|string" name="fieldHint"/><attr format="reference|string" name="fieldText"/><attr format="reference" name="fieldBindData"/><attr format="boolean" name="fieldEnabled"/><attr format="integer" name="fieldLines"/><attr format="integer" name="fieldTextSize"/></declare-styleable><declare-styleable name="base_tab"><attr format="color|reference" name="dividerColor"/><attr format="reference" name="dividerHeight"/><attr format="boolean" name="isTop"/></declare-styleable></configuration></mergedItems></merger>
